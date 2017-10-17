@@ -12,8 +12,6 @@ import java.util.stream.Collectors;
 @SpringBootApplication
 public class OptimalItemSetsApplication {
 
-
-
 	public static void main(String[] args) {
 		SpringApplication.run(OptimalItemSetsApplication.class, args);
 
